@@ -5,7 +5,7 @@ This project provides a shell script to manage a simple "sleep-walking server" a
 
 The solution includes:
 1. **`sleep-walking-server`**: A server simulation script that runs indefinitely and stores its process ID (PID) in a file.
-2. **`solution.sh`**: A script to start and stop the server, ensuring proper handling of process management.
+2. **`1.sh`**: A script to start and stop the server, ensuring proper handling of process management.
 
 ---
 
